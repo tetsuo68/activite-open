@@ -1,0 +1,20 @@
+body {
+    width: 85%;
+    margin: auto;
+	background-color: rgb(219, 138, 15);
+}
+main{
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+nav {
+    display: inline-flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-right:20px;
+    }
